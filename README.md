@@ -65,8 +65,7 @@ Saída Esperada:
 
 Gráfico de linha mostrando a variação da temperatura ao longo das horas.
 Destaque visual do ponto com a temperatura máxima.
-Contribuições
-Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões de melhorias, abra um issue ou envie um pull request.
+
 
 
 
